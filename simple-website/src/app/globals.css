@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+.li{
+  @apply ml-4 transition ease-linear delay-100 hover:font-bold
+  /* @apply ml-4 transition linear delay-200 hover:text-[#38bdf8]; */
+}
+
+.li::after{
+  content: '';
+  @apply block h-0.5  bg-black transition-all duration-300 scale-x-0
+}
+
+.li:hover::after{
+  @apply scale-x-100
+}
