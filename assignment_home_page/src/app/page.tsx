@@ -1,12 +1,9 @@
-import Header from "./components/header/header";
-import HeroSection from "./components/hero-section/HeroSection";
-import Footer from "./components/footer/Footer";
+import HomePage from "./components/HomePage/HomePage";
+
 const page = () => {
   return (
     <div>
-      <Header />
-      <HeroSection />
-      <Footer />
+      <HomePage />
     </div>
   );
 };
