@@ -14,7 +14,7 @@ const Footer = () => {
         </div>
         <hr className="w-[1000px]  mb-4 mt-4 border-2 " />
         <div>
-          <p className="mb-4">&#39; 2024 Tech Blogging. All rights reserved.</p>
+          <p className="mb-4">&copy; 2024 Tech Blogging. All rights reserved.</p>
         </div>
       </div>
     </>
