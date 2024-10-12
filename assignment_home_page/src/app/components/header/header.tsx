@@ -13,7 +13,7 @@ const Header = () => {
   return (
     <header className="flex items-center justify-around h-16 border-b-2">
       <div>
-        <a href="." className="">
+        <a href=".">
           <img
             className="h-[65px] bg-transparent"
             src="/images/logo.png"

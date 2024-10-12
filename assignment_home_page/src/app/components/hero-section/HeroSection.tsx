@@ -12,9 +12,9 @@ const HeroSection = () => {
         }
         <p className="font-medium text-2xl leading-9 tracking-widest">
           Stay ahead with in-depth articles, tutorials, and insights on Next.js,
-          React, and cutting-edge technologies. Whether you&apos;re a beginner or a
-          seasoned developer, our blog brings you the latest trends and best
-          practices to level up your skills.
+          React, and cutting-edge technologies. Whether you&apos;re a beginner
+          or a seasoned developer, our blog brings you the latest trends and
+          best practices to level up your skills.
         </p>
       </div>
       <div className="w-[600px]">
