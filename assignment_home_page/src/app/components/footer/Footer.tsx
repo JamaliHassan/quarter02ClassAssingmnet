@@ -1,5 +1,3 @@
-import { Dock, DockIcon, dockVariants } from "@/components/ui/dock";
-
 const Footer = () => {
   return (
     <>
@@ -15,9 +13,11 @@ const Footer = () => {
             insightful articles to help you stay ahead in the tech world.
           </p>
         </div>
-        <hr className="w-[1000px]  mb-4 mt-4 border-2 "/>
+        <hr className="w-[1000px]  mb-4 mt-4 border-2 " />
         <div>
-        <p className="mb-4">&copy; 2024 Tech Blogging. All rights reserved.</p>
+          <p className="mb-4">
+            &copy; 2024 Tech Blogging. All rights reserved.
+          </p>
         </div>
       </div>
     </>

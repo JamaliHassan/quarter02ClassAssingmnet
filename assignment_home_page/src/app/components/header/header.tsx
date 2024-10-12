@@ -2,7 +2,6 @@
 import Link from "next/link";
 import { FaMoon, FaSun } from "react-icons/fa";
 import { useState } from "react";
-import { GiWhiteBook } from "react-icons/gi";
 const Header = () => {
   const [DarkMode, setDarkMode] = useState(false);
   const darkMode = (): void => {
