@@ -37,7 +37,7 @@ const Header = () => {
       </nav>
       <div>
         <button
-          className="border-none transition ease-linear duration-200 hover:text-[#FF5733] p-2"
+          className="border-none transition ease-linear duration-200 hover:text-[#FF5733] p-2 text-2xl"
           onClick={darkMode}
         >
           {DarkMode ? <FaSun /> : <FaMoon />}
