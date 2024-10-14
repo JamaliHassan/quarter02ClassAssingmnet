@@ -18,7 +18,7 @@ const HeroSection = () => {
         </p>
       </div>
       <div className="max-w-[600px] max-sm:ml-[100px] max-sm:w-full">
-        <img src="./images/heroImage.png" alt="blogImage" className="w-[100%]" />
+        <img src="https://iotvnaw69daj.i.optimole.com/cb:Amyz.6583c/w:auto/h:auto/q:75/f:best/https://www.bloggingpro.com/wp-content/uploads/2023/10/Best-Tech-Blogs-featured-image.webp" alt="blogImage" className="w-[100%]" />
       </div>
     </div>
   );
