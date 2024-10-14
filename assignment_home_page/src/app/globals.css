@@ -62,7 +62,7 @@
   }
 }
 .listItem{
-  @apply list-none mr-3 font-semibold text-xl transition ease-linear duration-200 hover:text-[#FF5733] 
+  @apply list-none mr-2 font-semibold text-xl transition ease-linear duration-200 hover:text-[#FF5733] 
 }
 @layer base {
   * {
@@ -72,4 +72,5 @@
     @apply bg-background text-black h-screen  font-Poppins; 
   }
 }
+
 
