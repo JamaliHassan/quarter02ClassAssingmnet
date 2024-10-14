@@ -18,7 +18,7 @@ const HeroSection = () => {
         </p>
       </div>
       <div className="max-w-[600px] max-sm:ml-[100px] max-sm:w-full">
-        <img src="/images/heroImage.png" alt="blogImage" className="w-[100%]" />
+        <img src="./images/heroImage.png" alt="blogImage" className="w-[100%]" />
       </div>
     </div>
   );
