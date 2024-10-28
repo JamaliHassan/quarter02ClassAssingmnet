@@ -45,7 +45,7 @@ const Footer = () => {
       <hr />
     </div>
       <div className="text-white bg-[#b88e2f] text-center">
-          <p>@Copy All Rights Are Reserved by Furniro</p>
+          <p>&copy;All Rights Are Reserved by Furniro</p>
       </div>
       </>
   );
