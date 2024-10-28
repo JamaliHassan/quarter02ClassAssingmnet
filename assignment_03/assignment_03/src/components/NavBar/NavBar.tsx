@@ -1,6 +1,5 @@
 "use client";
 import Link from "next/link";
-import SearchIcon from "@mui/icons-material/Search";
 const NavBar = () => {
   return (
     <div className="flex justify-around items-center p-4">
