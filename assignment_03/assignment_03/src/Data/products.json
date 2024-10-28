@@ -1,0 +1,40 @@
+{
+  "ProductCard": [
+    {
+      "name": "Tradtional Visitor Chair",
+      "img": "/chair.jpg",
+      "Price": "$100",
+      "id": 1
+    },
+    {
+      "name": "Charm King SIze Bed",
+      "img": "/Charm_King_Size_Bed_set.webp",
+      "Price": "$400",
+      "id": 2
+    },
+    {
+      "name": "Charm Wardrobe 3 Door",
+      "img": "/charm_wardrobe.jpeg",
+      "Price": "$200",
+      "id": 3
+    },
+    {
+      "name": "Conte Center Table",
+      "img": "/conte_table.webp",
+      "Price": "$120",
+      "id": 4
+    },
+    {
+      "name": "Lodge Sofa 3 Seater",
+      "img": "/Lodge_Sofa_3_Seater.webp",
+      "Price": "$250",
+      "id": 5
+    },
+    {
+      "name": "Roy Sofa Chair",
+      "img": "/roy_sofa_chair.webp",
+      "Price": "$180",
+      "id": 6
+    }
+  ]
+}
