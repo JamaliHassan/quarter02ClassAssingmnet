@@ -4,7 +4,7 @@ const ProductCard = () => {
   return (
     <div className=" max-w-full  grid grid-cols-3 gap-2 place-content-center my-4">
       {ProductCards.ProductCard.map((item) => (
-        <div className="max-w-[360px] h-[392px] border rounded-lg p-4 shadow-lg m-2">
+        <div className="max-w-[360px] h-[392px] border rounded-lg p-4 shadow-lg m-2" key={item.id}>
           <img
             src={item.img}
             alt="product"
