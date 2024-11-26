@@ -1,3 +1,4 @@
+'use client'
 const Achievements = () => {
   return (
     <section className=" flex justify-center  items-center w-full py-8 px-5">

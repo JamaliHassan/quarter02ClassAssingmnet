@@ -1,3 +1,4 @@
+'use client'
 import Image from "next/image";
 import testimonialData from "@/Data/Testimonial.json";
 import { FaCircle } from "react-icons/fa";

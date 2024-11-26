@@ -1,3 +1,5 @@
+'use client'
+
 import teamsData from "@/Data/Teams.json";
 import Image from "next/image";
 import { FaTwitter, FaLinkedin, FaDribbble } from "react-icons/fa";

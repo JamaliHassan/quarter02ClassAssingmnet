@@ -1,3 +1,5 @@
+'use client'
+
 import Image from "next/image";
 import Data from "@/Data/catagorydata.json";
 import { Button } from "./ui/button";
