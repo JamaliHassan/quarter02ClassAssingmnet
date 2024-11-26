@@ -1,0 +1,70 @@
+{
+  "CoursesData": [
+    {
+      "id": "1",
+      "title": "Design",
+      "Star": "../CoursesImage/Star 1.svg",
+      "Rating": "5.0",
+      "heading": "UX/UI Design 201",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.",
+      "Image": "../CoursesImage/Image6.svg",
+      "buttonText": "Enroll Now",
+      "Price": "$400"
+    },
+    {
+      "id": "2",
+      "title": "Programmimg",
+      "Star": "../CoursesImage/Star 1.svg",
+      "Rating": "5.0",
+      "heading": "Introduction to Python",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.",
+      "Image": "../CoursesImage/Image5.svg",
+      "buttonText": "Enroll Now",
+      "Price": "$400"
+    },
+    {
+      "id": "3",
+      "title": "Business",
+      "Star": "../CoursesImage/Star 1.svg",
+      "Rating": "5.0",
+      "heading": "Data Analysis for Beginners",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.",
+      "Image": "../CoursesImage/Image4.svg",
+      "buttonText": "Enroll Now",
+      "Price": "$400"
+    },
+    {
+      "id": "4",
+      "title": "Art",
+      "Star": "../CoursesImage/Star 1.svg",
+      "Rating": "5.0",
+      "heading": "Art Specialization",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.",
+      "Image": "../CoursesImage/Image3.svg",
+      "buttonText": "Enroll Now",
+      "Price": "$400"
+    },
+    {
+      "id": "5",
+      "title": "Law",
+      "Star": "../CoursesImage/Star 1.svg",
+      "Rating": "5.0",
+      "heading": "Rule of Law",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.",
+      "Image": "../CoursesImage/Image1.svg",
+      "buttonText": "Enroll Now",
+      "Price": "$400"
+    },
+    {
+      "id": "6",
+      "title": "Tech",
+      "Star": "../CoursesImage/Star 1.svg",
+      "Rating": "5.0",
+      "heading": "Introduction to webflow",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.",
+      "Image": "../CoursesImage/Image2.svg",
+      "buttonText": "Enroll Now",
+      "Price": "$400"
+    }
+  ]
+}

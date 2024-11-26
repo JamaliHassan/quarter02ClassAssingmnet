@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "heading": "Design & Development",
+      "paragraph": "50+ Courses Available",
+      "Image": "../catagoryImages/pen-tool-2.svg"
+    },
+    {
+      "id": "2",
+      "heading": "Marketing",
+      "paragraph": "50+ Courses Available",
+      "Image": "../catagoryImages/volume-high.svg"
+    },
+    {
+      "id": "3",
+      "heading": "Development",
+      "paragraph": "50+ Courses Available",
+      "Image": "../catagoryImages/group.svg"
+    },
+    {
+      "id": "4",
+      "heading": "Communication",
+      "paragraph": "50+ Courses Available",
+      "Image": "../catagoryImages/microphone.svg"
+    },
+    {
+      "id": "5",
+      "heading": "Digital Marketing",
+      "paragraph": "50+ Courses Available",
+      "Image": "../catagoryImages/link.svg"
+    },
+    {
+      "id": "6",
+      "heading": "Self Development",
+      "paragraph": "50+ Courses Available",
+      "Image": "../catagoryImages/arrow-2.svg"
+    },
+    {
+      "id": "7",
+      "heading": "Business",
+      "paragraph": "50+ Courses Available",
+      "Image": "../catagoryImages/briefcase.svg"
+    },
+    {
+      "id": "8",
+      "heading": "Finance",
+      "paragraph": "50+ Courses Available",
+      "Image": "../catagoryImages/book.svg"
+    },
+    {
+      "id": "9",
+      "heading": "Consulting",
+      "paragraph": "50+ Courses Available",
+      "Image": "../catagoryImages/FinanceBook.svg"
+    }
+  ]
+}
