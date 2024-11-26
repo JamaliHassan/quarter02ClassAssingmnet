@@ -23,7 +23,7 @@ const Testimonials = () => {
               {[...Array(5)].map((_, index) => (
                 <Image
                   key={index}
-                  src="/testimonialImages/vector.svg"
+                  src="/testimonialImages/Vector.svg"
                   alt="Star"
                   width={20}
                   height={18}
