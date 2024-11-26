@@ -117,21 +117,21 @@ const Footer = () => {
         <div className="max-w-7xl border-t-2 border-black mx-auto px-4 py-4 flex flex-wrap gap-6 items-center md:justify-between justify-center text-xs ">
           <p>© 2023 Ddsgnr. All rights reserved.</p>
           <div className="flex mx-4">
-            <Link href="/" className="underline">
+            <Link href="/" className="underline m-2">
               Privacy Policy
             </Link>
-            <Link href="/" className="underline">
+            <Link href="/" className="underline m-2">
               Terms of Service
             </Link>
-            <Link href="/" className="underline">
+            <Link href="/" className="underline m-2">
               Cookies Settings
             </Link>
           </div>
           <div className="flex gap-3 mt-4 md:mt-0">
-            <FaFacebookF className="text-lg" />
-            <FaInstagram className="text-lg" />
-            <FaTwitter className="text-lg" />
-            <FaLinkedin className="text-lg" />
+            <FaFacebookF className="text-lg cursor-pointer" />
+            <FaInstagram className="text-lg cursor-pointer" />
+            <FaTwitter className="text-lg cursor-pointer" />
+            <FaLinkedin className="text-lg cursor-pointer" />
           </div>
         </div>
       </div>

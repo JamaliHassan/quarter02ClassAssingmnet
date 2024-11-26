@@ -5,21 +5,21 @@
       "Name": "James Nduku",
       "Designation": "Software Developer",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.",
-      "Image": "../testimonialImages/image3.svg"
+      "Image": "/testimonialImages/image3.svg"
     },
     {
       "id": "2",
       "Name": "Erick Kipkemboi",
       "Designation": "Scrum Master",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.",
-      "Image": "../testimonialImages/image1.svg"
+      "Image": "/testimonialImages/image1.svg"
     },
     {
       "id": "3",
       "Name": "Stephen Kerubo",
       "Designation": "UI/UX Designer",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.",
-      "Image": "../testimonialImages/image6.svg"
+      "Image": "/testimonialImages/image6.svg"
     }
   ]
 }

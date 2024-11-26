@@ -34,9 +34,9 @@ const Teams = () => {
                 <p className="text-lg leading-[27px]">{items.Designation}</p>
               </div>
               <div className="flex justify-center gap-[14px]">
-                <FaLinkedin />
-                <FaTwitter />
-                <FaDribbble />
+                <FaLinkedin  className="cursor-pointer"/>
+                <FaTwitter className="cursor-pointer" />
+                <FaDribbble className="cursor-pointer" />
               </div>
             </div>
           ))}

@@ -4,37 +4,37 @@
       "id": "1",
       "Name": "James Nduku",
       "Designation": "Marketing Coordinator",
-      "Image": "../teamsIcons/image1.svg"
+      "Image": "/teamsIcons/image1.svg"
     },
     {
       "id": "2",
       "Name": "Joseph Munyambu",
       "Designation": "Nursing Assistant",
-      "Image": "../teamsIcons/image2.svg"
+      "Image": "/teamsIcons/image2.svg"
     },
     {
       "id": "3",
       "Name": "Joseph Ngumbau",
       "Designation": "Medical Assistant",
-      "Image": "../teamsIcons/image3.svg"
+      "Image": "/teamsIcons/image3.svg"
     },
     {
       "id": "4",
       "Name": "Erick Kipkemboi",
       "Designation": "Web Designer",
-      "Image": "../teamsIcons/image4.svg"
+      "Image": "/teamsIcons/image4.svg"
     },
     {
       "id": "5",
       "Name": "Stephen Kerubo",
       "Designation": "President of Sales",
-      "Image": "../teamsIcons/image5.svg"
+      "Image": "/teamsIcons/image5.svg"
     },
     {
       "id": "6",
       "Name": "John Leboo",
       "Designation": "Dog Trainer",
-      "Image": "../teamsIcons/image6.svg"
+      "Image": "/teamsIcons/image6.svg"
     }
   ]
 }
