@@ -75,7 +75,7 @@ const NavBar = () => {
             {isMenuOpen ? <FaTimes size={24} /> : <FaBars size={24} />}
           </div>
           {isMenuOpen && (
-            <div className="absolute top-[72px] left-0 w-full bg-white shadow-lg p-4 lg:hidden">
+            <div className="absolute top-[72px] left-0 w-full bg-white shadow-lg p-4 ">
               <ul className="flex flex-col gap-4 text-center">
                 {[
                   "Home",

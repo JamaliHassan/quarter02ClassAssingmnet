@@ -4,7 +4,7 @@ const NavBar = () => {
   return (
     <div className="flex justify-around items-center p-4">
       <div className="text-2xl font-bold">
-        <Link href=".">Furniro</Link>
+        <Link href="./">Furniro</Link>
       </div>
       <div>
         <ul className="flex justify-center items-center">
