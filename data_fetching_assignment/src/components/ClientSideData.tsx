@@ -23,7 +23,7 @@ interface Store {
     count?: number;
   };
 }
-function clientSideData() {
+function ClientSideData() {
   const [data, setData] = useState<Store[]>([]);
   const [card, setCard] = useState(6);
   const LoadMore = () => {
@@ -83,4 +83,4 @@ function clientSideData() {
     </div>
   );
 }
-export default clientSideData;
+export default ClientSideData;
